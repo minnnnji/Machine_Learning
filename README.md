@@ -2,7 +2,7 @@
 
 |||||||
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|[Regression:](https://github.com/minnnnji/Machine_Learning/tree/master/Regression) | KNN | Decision Tree| Logistic Regression|ensemble|
+|[Regression:](https://github.com/minnnnji/Machine_Learning/tree/master/Regression) | KNN | Decision Tree| linear Regression|ensemble|
 |[Classifiation:](https://github.com/minnnnji/Machine_Learning/tree/master/Classification) |KNN|LDA & QDA|Logistic Regression|Decision Tree|ensemble
 |handcrafted feature - 1D| [code ](https://github.com/minnnnji/Machine_Learning/blob/master/handcrafted%20feature/자이로%2B%20가속도%201D%20Data%20결과%20%2B%20코드/1D_data.ipynb)| [ kaggle ](https://www.kaggle.com/c/2020mltermprojecthar)|![w](img/1d.png) 
 |handcrafted feature - 2D| [code ](https://github.com/minnnnji/Machine_Learning/blob/master/handcrafted%20feature/Bovw_2D%20Data%20결과%20%2B%20코드/BovW_5.ipynb)| [ kaggle ](https://www.kaggle.com/c/2020mltermprojectbovw)|![](img/2d.png)
