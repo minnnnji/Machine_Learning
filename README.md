@@ -1,4 +1,27 @@
 # Machine_Learning
+-  공부하면서 진행한 실습 및 ML & DL CODE
+
+<Br>
+
+```bash
+├─ NLP
+├─ ML
+│  ├─ Classification
+│  └─ Regression
+├─ 인공지능 챌린지
+├─ 학교
+│  ├─ 예시코드 # 학습 자료
+│  ├─ 기말고사
+│  └─ 중간고사
+└─ Handcrafted Feature
+   ├─ 1D 자이로 + 가속도 
+   ├─ 2D Caltech 101 Bovw
+   ├─ 3D ModelNet10 Point cloud 데이터 셋
+   └─ EMA 데이터 + 통계적 정보 feature
+
+```
+<Br><Br>
+
 
 #### 세종대학교 SW - AI 융합챌린지 ( 인공지능 챌린지 ) 은상 수상  - [[ kaggle ]](https://www.kaggle.com/c/sejong-ai-challenge-p3)
 |||||||
@@ -11,5 +34,3 @@
 |EMA데이터를 사용한 우울증 예측|[code](https://github.com/minnnnji/Machine_Learning/blob/master/handcrafted%20feature/EMA%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C%20%EC%9A%B0%EC%9A%B8%EC%A6%9D%20%EC%98%88%EC%B8%A1/EMA_%EC%9A%B0%EC%9A%B8%EC%A6%9D%EC%98%88%EC%B8%A1.ipynb)|[데이터 출처](https://studentlife.cs.dartmouth.edu/dataset.html)| EMA(생태순간평가)란 휴대용 전자기기를 토애 하루 수회에 걸쳐 실시간으로 경헌하는 정서나 사고, 행동 등을 보고하도록 하는 것
 
 ---
-
-
